@@ -17,7 +17,7 @@ BOT_TOKEN = environ.get('BOT_TOKEN', "7615542336:AAHj4SFN91x-QWbwW9PFNAQK6FCB3qk
 
 
 # This Pictures Is For Start Message Picture, You Can Add Multiple By Giving One Space Between Each.
-PICS = (environ.get('PICS', 'https://telegra.ph/file/d71a829bd664bbb21fc0a.jpg')).split()
+PICS = (environ.get('PICS', 'https://telegra.ph/file/d71a829bd664bbb21fc0a.jpg https://envs.sh/ak-.jpg https://envs.sh/akl.jpg https://envs.sh/akV.jpg')).split()
 
 
 # Admins & Users
@@ -85,7 +85,7 @@ PUBLIC_FILE_CHANNEL = environ.get('PUBLIC_FILE_CHANNEL', '') # Public Channel Us
 
 # Links
 GRP_LNK = environ.get('GRP_LNK', 'https://t.me/+-CWDhekYZiwwMmZl')
-CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/+FfRIexHWFM04YTA1')
+CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/DM_LinkZzz')
 SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'vj_bot_disscussion') # Support Chat Link Without https:// or @
 OWNER_LNK = environ.get('OWNER_LNK', 'https://t.me/mk_admin_2')
 
